@@ -8,3 +8,4 @@
 ### - Research Interests
 - 💻 Computer Vision
 - 📷 Multi-modal learning
+- 🔨 Synthetic Data Generation
