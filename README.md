@@ -1,9 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Gihun's-nl-Github%20profile&animation=fadeIn&fontSize=70)
+# Gihun Son😄
+  
+<a href="https://gihuni99.github.io/"  target="_blank"><img src="https://img.shields.io/badge/gihuni99.github.io-000000?style=flat-square&logo=GitHub&logoColor=white"/></a> <a href="thlg60@naver.com"  target="_blank"><img src="https://img.shields.io/badge/thlg60@naver.com-5CE500?style=flat-square&logo=Nintendo&logoColor=white"/></a>
+![gihuni99's GitHub stats](https://github-readme-stats.vercel.app/api?username=gihuni99&show_icons=true&theme=radical)
+ 
 
-![logo](https://img.shields.io/badge/blog-black?logo=github&link=https://gihuni99.github.io)
-![logo](https://img.shields.io/badge/Email-green?logo=Gmail&link=mailto:thlg60@naver.com) 
-
-# Hello, I'm Gihun Son😄
 
 ### - Research Interests
 - 💻 Computer Vision
